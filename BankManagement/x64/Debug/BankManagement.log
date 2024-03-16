@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++_Project\BankManagement\BankManagement\main.cpp(98,1): warning C4715: 'BankManagement::findAccountToDepositOrWithdraw': not all control paths return a value
+  BankManagement.vcxproj -> D:\C++_Project\BankManagement\x64\Debug\BankManagement.exe
